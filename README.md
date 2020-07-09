@@ -1,8 +1,10 @@
 ### I am :egg:
 
-- :email: How to reach me: victor@ingman.me or @xeloader
-- :grin: Pronouns: he/him
-- :rocket: Fun fact: I am not :egg: and smoking kills
+:email: &nbsp;How to reach me: victor@ingman.me or @xeloader
+
+:grin: &nbsp;Pronouns: he/him
+
+:rocket: &nbsp;Fun fact: I am not :egg: and smoking kills
 
 <!--
 **xeloader/xeloader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
