@@ -1,5 +1,3 @@
-### I am :egg:
-
 :email: &nbsp;How to reach me: victor@ingman.me or @xeloader
 
 :grin: &nbsp;Pronouns: he/him
